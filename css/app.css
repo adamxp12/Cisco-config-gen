@@ -1,0 +1,14 @@
+body {
+	background: url('../img/5NoNoise.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.content {
+	margin-top: 80px;
+}
+
+footer {
+	width: 100%;
+	color: #fff;
+}
