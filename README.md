@@ -7,3 +7,17 @@ Makes use of Foundation 5 (because 6 is quite broken in terms of js for equalise
 Requires PHP 5 or later
 
 Feel free to fork it and submit a pull request if you want to improve it, proberbly needs improving but just don't have time at the moment.
+
+
+Future Additions
++ Multiple Extensions
++ Custom Dial Plans
++ Set Timezone and Format
+
+But at the moment it does the following
++ First Extension
++ Voicemail (*98 as this is the default on asterisk systems)
++ And the phone label
+
+
+This code is quite bad, deal with it :D
